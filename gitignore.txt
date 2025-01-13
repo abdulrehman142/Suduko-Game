@@ -1,0 +1,6 @@
+*.cpp
+*.com
+*.lst
+*.obj
+*.exe
+.vscode
